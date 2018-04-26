@@ -1,0 +1,26 @@
+1.andorid 如何设置异常 错误的等级   
+2。总结 队列、Stringbuffer 的一些用法。
+3 全排列  java arrays sort 如何变换一下顺序
+4 如何在字符串中找到某些特定的字符串，字符串比对（数据结构学过的一种算法）
+
+（1）String类的toCharArray()方法，将字符串转换为字符数组
+（2）String类的valueOf()方法，将char类型的数组转换为字符串
+
+5 了解一下 多线程 并发  数据库的内容   
+6 关于异常类设计  如何设计自己的异常类并捕捉 有个moji可以看看
+7 正则表达式  表示  [^a-zA-Z]+ 所有非字母的符号  \\w   
+\\s+表示特殊的符号 匹配任何空白字符，包括空格、制表符、换页符等等。等价于 [ \f\n\r\t\v]。
+
+8 字符串中最长的回文串算法  Manacher算法
+9 jdk源码考虑看下
+10 final static关键字 transient Native serialVersionUID = 7523967970034938905L;  volatile
+11 红黑树
+12 逆波兰 计算字符串表达式
+13 最长公共子序列 和子串
+
+
+14 如果是maven，怎么将自己的jar生成maven 使用
+15 jar接口不够，需要添加一些，如何解决
+16 异步加载
+17 set map
+Java并发编程实战    深入理解Java虚拟机 Java编程思想  effective java
